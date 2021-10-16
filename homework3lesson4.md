@@ -86,8 +86,8 @@ Student@ub20-postgres-4:~$ sudo docker --version
 Docker version 20.10.9, build c2ea9bc
 ```
 
-3 сделать каталог /var/lib/postgres
-Результат:
+#### 3. сделать каталог /var/lib/postgres
+##### Результат:
 Создали и убедились что каталог пустой
 ```
 Student@ub20-postgres-4:~$ sudo mkdir /var/lib/postgres
